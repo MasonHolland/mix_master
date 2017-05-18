@@ -40,6 +40,9 @@ group :development, :test do
   gem 'pry'
   gem 'shoulda-matchers'
   gem 'factory_girl_rails'
+  gem 'rails-controller-testing'
+  gem 'omniauth-oauth2'
+  gem 'figaro'
 end
 
 group :development do
